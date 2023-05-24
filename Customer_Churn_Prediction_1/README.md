@@ -13,13 +13,6 @@ Based on the dataset's parameters, we need to "predict" if a client would "churn
 
 <br><br>
 
-## 👀 Screenshots
-
-<img src = "/assets/1.png">
-<img src = "/assets/2.png">
-<img src = "/assets/3.png">
-<img src = "/assets/4.png">
-
 
 ## 📓 Overview
 
